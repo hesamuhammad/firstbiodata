@@ -73,7 +73,7 @@ body {
 }
 
 .social .icon {
-    align: center;
+    text-align: center;
 }
 
 .social .icon img {
@@ -93,6 +93,7 @@ body {
 
 .social ul li {
     display: inline;
+    align: center;
 }
 
 .footer {
